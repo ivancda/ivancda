@@ -1,5 +1,5 @@
 
-### Hello! 👋 I`m ivan
+### Hello! 👋 I’m Ivan Coelho 😊
 
 
 - 🌱 I’m currently learning React and Node
