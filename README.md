@@ -1,6 +1,6 @@
 <h1 align="center">Hello 👋, I'm Ivan Coelho 😊</h1>
 
-<h3><a href="https://ivancda.github.io/iCanCenterADiv/"><b>THIS</b></a> is why you should give me jobs</h3>
+
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=ivancda&label=Profile%20views&color=0e75b6&style=flat" alt="ivancda" /> </p>
 
