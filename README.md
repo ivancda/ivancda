@@ -4,7 +4,7 @@
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=ivancda&label=Profile%20views&color=0e75b6&style=flat" alt="ivancda" /> </p>
 
-- 💻 Look at my project at [Frontend Mentor](https://www.frontendmentor.io/profile/ivancda)
+- 💻 Look at my projects at [Frontend Mentor](https://www.frontendmentor.io/profile/ivancda)
 
 - 🌱 I’m currently learning **React and Node at [Resilia](https://www.resilia.work/)**
 
