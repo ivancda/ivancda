@@ -8,13 +8,13 @@
 
 - 🌱 I’m currently learning **React at [Resilia](https://www.resilia.work/)**
 
+- 🧙 Check out some of my weird codes on [Open Processing](https://openprocessing.org/user/241094/?view=sketches)...
+
 - 👨‍💻 All of my projects are available at [github.com/ivancda](github.com/ivancda)
 
 - 💬 Ask me about **HTML, CSS, JS**
 
 - 📫 How to reach me: **ivancda@gmail.com**
-
-- ⚡ Fun fact: **likes cats, music and barbecue.**
 
 <br>
 
