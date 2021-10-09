@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at [github.com/ivancda](github.com/ivancda)
 
-- 💬 Ask me about **HTML, CSS, JS**
+- 💬 Ask me about **VUE, HTML, CSS, JS**
 
 - 📫 How to reach me: **ivancda@gmail.com**
 
