@@ -6,7 +6,7 @@
 
 - 💻 Look at my projects at [Frontend Mentor](https://www.frontendmentor.io/profile/ivancda)!
 
-- 🌱 I’m currently learning **React at [Resilia](https://www.resilia.work/)**
+- 🌱 I’m currently learning **three.js and ammo.js**
 
 - 🧙 Check out some of my weird codes on [Open Processing](https://openprocessing.org/user/241094/?view=sketches)...
 
