@@ -4,15 +4,11 @@
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=ivancda&label=Profile%20views&color=0e75b6&style=flat" alt="ivancda" /> </p>
 
-- 💻 Look at my projects at [Frontend Mentor](https://www.frontendmentor.io/profile/ivancda)!
-
-- 🌱 I’m currently learning **three.js and ammo.js**
-
 - 🧙 Check out some of my weird codes on [Open Processing](https://openprocessing.org/user/241094/?view=sketches)...
 
 - 👨‍💻 All of my projects are available at [github.com/ivancda](github.com/ivancda)
 
-- 💬 Ask me about **VUE, HTML, CSS, JS**
+- 💬 Ask me about **VUE, REACT, HTML, CSS, JS**
 
 - 📫 How to reach me: **ivancda@gmail.com**
 
